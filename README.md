@@ -1,27 +1,48 @@
-# Next.js + Tailwind CSS Example
+# 💨 __NFT-GETTER-DEMO__
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<div style="margin-top:30px"></div>
 
-## Deploy your own
+## 💫 __WHAT YOU WILL SEE__
+   * Get access to the website using this link [Nft-demo-getter]()
+   * you will see 2 input boxes
+      * The first input box for the wallet address of the nft
+      * The second input box for the contract address of the nft 
+  * A checkbox that allows you to fetch for collection
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+<div style="margin-top:30px"></div>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+## 🔅💨 __HOW TO FILTER THE NFTS__
+<div style="margin-top:20px"></div>
 
-## How to use
+   * 👁‍🗨 __FILTER BASED ON CONTRACT ADDRESS(all nfts owned by the contract address)__
+      1. Paste a wallet address into wallet  input field, you can get this from opensea 
+      2. Do not fill the input field for the contract address , and also the checkbox should be left unchecked
+      3. Hit the submit button
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+<div style="margin-top:20px"></div>
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+* 👁‍🗨 __FILTER BASED ON ALL THE COLLECTIONS OF THAT TYPE OF NFT__
+   1. Paste the contract address , you can get this from opensea 
+   2. Do not fill the input field for the wallet address , and also the checkbox should be left checked
+   3. Hit the submit button
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+<div style="margin-top:20px"></div>
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+* 👁‍🗨 __FILTER BASED ON ALL THE NFTS OF THAT COLLECTION OWNED BY THAT ADDRESS__
+   1. Paste the wallet address , you can get this from opensea 
+   2. Paste the contract address , you can get this from opensea  
+   3. The checkbox should be left checked
+   4. Hit the submit button
+   
+<div style="margin-top:20px"></div>
+
+* __Phone-Number - +2348134570701__
+* __Twitter__ - [ken_okha]()
+* __Web3 Developer__
+
+
+
+
+
+
