@@ -1,4 +1,4 @@
-# 💨 __NFT-GETTER-DEMO__
+# 💨 __NFT-GALLERY-DEMO__
 
 <div style="margin-top:30px"></div>
 
